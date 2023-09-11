@@ -1,1 +1,14 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+Color - 
+orange and blue- I changed the colors to blue and orange because the country flag of the marshall islands is orange, blue, and white. 
+pictures on the projects section - The projects Section I was able to change the pictures. The reason why I changed the pictures is to have the picture be related on what the project is. The user will be able to know what the project is about by the picture that is displayed.
+picture on the first section - the first picture in the first section was changed to an island picture. The reason why is because its my portforlio and I lived on an island at one point in my life.
+change the tabs on the navbar- the reason why I changed some of the tab names because it shows what section there are on the page and also things I like.
+Added links to the tabs on the navbar- the links to the tabs on the navbar are added because itll direct the user for more information.
+wrote a section about myself in the portfolio- I changed the portfolio about my life and what I like.
+deleted one section at the bottom - the bottom section wasn't needed.
+Added the quote on the gradient section. The reason why i did that because the testimonials seemed a lot and the quote is smaller for the users to read.
+At the footer I deleted all of the list items that were unordered. The reason behind that is because there wasn't a lot of items to list so it looked busy.
+I also made links at the footer if the user wanted to go back to a certain section. It would be easier for the user to click on the link instead of scrolling up each time. 
+I added a section that has 3 videos of car racing. Once users scroll down they will be able to see videos that might interest them into watching.

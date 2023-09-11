@@ -1,12 +1,12 @@
-@use '../custom'as *;
-@use '../components/mixins'as *;
+@use "../custom" as *;
+@use "../components/mixins" as *;
 
 .btn-rounded {
   position: relative;
   padding: 0.8375rem 4.375rem 0.8375rem 1.25rem;
   font-weight: 700;
   margin: 0;
-  border: 0.1rem solid rgba($white, 0.6);
+  border: 0.1rem solid rgba($black, 0.6);
   background-color: $white;
   display: block;
 
@@ -21,19 +21,18 @@
     border-radius: 50%;
 
     i {
-      color: $white;
+      color: $black;
       font-size: 1rem;
       line-height: 2.5rem;
     }
-
   }
 
   &:hover {
     @include gradient;
-    color: $white;
+    color: white;
 
     span {
-      background-color: rgba($orange, 1.0);
+      background-color: rgba($black, 1);
     }
   }
 }
